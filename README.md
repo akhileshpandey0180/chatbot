@@ -1,11 +1,11 @@
 # Web-Scraped Chatbot
-
+![Image](https://github.com/user-attachments/assets/96921c22-70c6-4e22-bdde-88dd117e3a2c)
 ## Overview
 WebWise is an intelligent web-scraping chatbot that allows users to interact with websites and fetch content in real-time. The chatbot can answer user queries based on the content retrieved from specified URLs, providing a seamless and interactive experience.
 
 ## Watch the Demo Video
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=UIZjb3ZBW4w&t=18s)
+[![Watch the video](![Image](https://github.com/user-attachments/assets/96921c22-70c6-4e22-bdde-88dd117e3a2c))](https://www.youtube.com/watch?v=UIZjb3ZBW4w&t=18s)
 
 ## Features
 - Fetch website content using a URL input.
