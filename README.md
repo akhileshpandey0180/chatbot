@@ -46,8 +46,8 @@ WebWise is an intelligent web-scraping chatbot that allows users to interact wit
 
 ## Usage
 
-    - Enter a valid website URL in the "Enter website URL..." input field and click "Fetch Website" to retrieve the content.
-    - Type your question in the "Type your message..." input field and click "Send" to get a response based on the fetched content.
+- Enter a valid website URL in the "Enter website URL..." input field and click "Fetch Website" to retrieve the content.
+- Type your question in the "Type your message..." input field and click "Send" to get a response based on the fetched content.
 
 ## Contributing
 
