@@ -5,7 +5,7 @@ WebWise is an intelligent web-scraping chatbot that allows users to interact wit
 
 ## Watch the Demo Video
 
-![Watch the video](https://www.youtube.com/watch?v=UIZjb3ZBW4w&t=18s)
+[Watch the video](https://www.youtube.com/watch?v=UIZjb3ZBW4w&t=18s)
 
 ## Features
 - Fetch website content using a URL input.
